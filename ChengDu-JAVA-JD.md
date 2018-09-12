@@ -16,15 +16,15 @@
 ## 中级工程师
 
 1. JDK中用到的设计模式有哪些？
-2. [ThreadLocal实现原理与用法？](http://blog.csdn.net/qq_24693837/article/details/70432058)
+2. [ThreadLocal实现原理与用法？](http://www.cnblogs.com/dolphin0520/p/3920407.html)
 3. HashMap与HashTable的区别？
 4. HashMap与[ConcurrentHashMap](http://www.importnew.com/22007.html)的实现区别？
 5. [HashMap为何是线程不安全的？](http://blog.csdn.net/mydreamongo/article/details/8960667)
 6. [要实现一个线程安全的HashMap该如何去实现？](http://liqianglv2005.iteye.com/blog/2025016)
-7. [类加载器的加载过程是什么样的？](http://blog.csdn.net/briblue/article/details/54973413)
+7. [类加载器](http://blog.csdn.net/briblue/article/details/54973413)与[类加载过程](http://www.importnew.com/25295.html)？
 8. [notify和notifyAll的区别？](https://www.zhihu.com/question/37601861)
 9. [wait和sleep、yield和join的区别？](https://www.cnblogs.com/loren-Yang/p/7538482.html)
-10. [单例模式的并发设计有哪些方式？](](https://www.cnblogs.com/zhaoyan001/p/6365064.html))
+10. [单例模式的并发设计有哪些方式？](https://www.cnblogs.com/zhaoyan001/p/6365064.html)
 11. [MySQL数据库引擎有哪些](https://www.cnblogs.com/0201zcr/p/5296843.html)以及之间的[区别](https://www.zhihu.com/question/20596402)？
 12. [MySQL如何实现乐观锁、悲观锁？](https://www.cnblogs.com/zhiqian-ali/p/6200874.html)
 13. MySQL的索引原理？
@@ -32,6 +32,7 @@
 15. 常见的关系型数据库优化方法？
 16. Mongodb是否支持事物？
 17. 消息队列中如何保证有顺序的被消费？
+18. 数据库表锁与行锁？
 
 
 ## 高级工程师
